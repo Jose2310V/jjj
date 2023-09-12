@@ -1,0 +1,12 @@
+quiero es modificar esto para que así funcione Google Chrome <!DOCTYPE html>
+<html>
+<head>
+<script>
+window.onload = function() {
+    window.location.href = "tg://resolve?domain=username";
+}
+</script>
+</head>
+<body>
+</body>
+</html>
